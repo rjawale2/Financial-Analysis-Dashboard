@@ -25,4 +25,3 @@ Power BI, Excel
 - `Business_Requirements.docx` — full business requirements doc
 - `dashboard-overview.png` — dashboard screenshot
 
-![Dashboard Screenshot](dashboard.png)
